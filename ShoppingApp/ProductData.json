@@ -1,0 +1,20 @@
+[
+  {
+    "ProductName": "Atomic Habit Book",
+    "Price": "750",
+    "ImagePath": "Book.png",
+    "Quantity": 1
+  },
+  {
+    "ProductName": "Coffee Bottles",
+    "Price": "200",
+    "ImagePath": "bottle.jfif",
+    "Quantity": 1
+  },
+  {
+    "ProductName": "KitKat",
+    "Price": "25",
+    "ImagePath": "kitkat.jfif",
+    "Quantity": 1
+  }
+]
